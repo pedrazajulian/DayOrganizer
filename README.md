@@ -14,4 +14,4 @@
 
 <hr>
 
-![the following image shows the screen shot from the homework] (https://github.com/pedrazajulian/PasswordGenerator/blob/main/images/screenshot.PNG)
+![the following image shows the screen shot from the homework] (https://github.com/pedrazajulian/DayOrganizer/blob/main/assets/screenshot.PNG)
